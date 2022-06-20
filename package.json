@@ -1,0 +1,17 @@
+{
+  "name": "object-cloner",
+  "version": "2.0.4",
+  "description": "A simple utility library for cloning objects and arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clone",
+    "deep-clone",
+    "objects",
+    "arrays"
+  ],
+  "author": "eedris <alabialade@gmail.com> (https://twitter.com/eedrxs) ",
+  "license": "ISC"
+}
