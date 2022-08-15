@@ -15,3 +15,4 @@ Returns clone of given object or array
 
 Twitter: [@eedrxs](https://twitter.com/eedrxs)<br />
 GitHub: [@eedrxs](https://github.com/eedrxs)
+[![Rate this package](https://badges.openbase.com/js/rating/object-cloner.svg?style=openbase&token=W3bXzdcLwcY8AX1J2JijL4stx57+s7PXj304cewamnU=)](https://openbase.com/js/object-cloner?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
